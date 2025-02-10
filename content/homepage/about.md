@@ -28,7 +28,9 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
+
+[[ UNDER CONSTRUCTION ]]
+
 #### CONTACT WILDER
 Below are a list of public conversation / communication protocols, engineered to maximize our limited bandwidth and maximize the chance that you are able to get through to me, in whatever capacity your outreach justifies. Please follow the outreach protocols faithfully, as I have filters in place to ensure that only the serious reach my peacebrain mindeye.
 
-[[ UNDER CONSTRUCTION ]]
