@@ -1,8 +1,8 @@
 ---
-title: Continuous Conversation (!sense)
+title: Conversation Sense
 draft: false
 avatar: images/SENSE.png
-bio: Rule. Maintain piecewise continuous conversation by communicating relentlessly, creatively, cleverly. This rule applies primarily to maintaining conversation with one's self. This is large part the reason one must name their inner wilder self, or their inner upbring self (whichever is not the dominant being).
+bio: '...rule: Maintain piecewise continuous conversation, by communicating relentlessly, creatively, cleverly. This rule applies primarily to maintaining conversation with one`s self.'
 
 weight: 1
 widget:
@@ -19,7 +19,7 @@ widget:
   
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
-    color: secondary
+    color: black
     image:
     # Options: auto, cover and contain. Default is auto.
     size:
