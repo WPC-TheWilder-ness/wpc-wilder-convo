@@ -1,5 +1,5 @@
 baseURL: 'https://convo.wilder.wp.computer/'
-title: '𝜔×𝛼: ⦧𝘖‑𝘖$ echo !CONVERSATIONSENSE'
+title: '𝜔×𝛼: ⦧𝘖‑𝘖$ !CONVERSATIONSENSE'
 
 # Uncomment when not installing with Hugo Modules
 # theme: eureka
